@@ -36,7 +36,7 @@ This project provides a FastAPI-based API for classifying images using a pre-tra
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cifar10-image-classification.git
+   git clone https://github.com/your-username/cifar10-image-classification.git](https://github.com/harsukh9/computer-vison.git
    cd cifar10-image-classification
    ```
 
@@ -142,7 +142,7 @@ print(response.json())
 ## Deployed API
 
 You can access the deployed API at:  
-[https://your-deployed-api-url.com](https://your-deployed-api-url.com)
+[https://7a43-34-136-34-95.ngrok-free.app]
 
 (Replace this with the actual URL if you deploy the API on a cloud platform like Render, AWS, or GCP.)
 
